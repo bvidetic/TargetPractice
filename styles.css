@@ -1,0 +1,37 @@
+
+.Hockey{
+    background-color: red;
+};
+
+.Football{
+    background-color: green;
+}
+
+.Baseball{
+    background-color: blue;
+}
+
+.Golf{
+    color: red;
+}
+
+.Rugby{
+    border:1px solid blue;
+}
+
+.Snowboarding{
+    background-color: green;
+}
+
+.NewHockey{
+    background-color: lightblue;
+}
+
+.NewRugby{
+    background-color: red;
+}
+
+
+.highlight {
+    background-color: yellow;
+}
